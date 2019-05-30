@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/dice-react/static/css/main.0253e14e.chunk.css",
+    "main.js": "/dice-react/static/js/main.a7c4009f.chunk.js",
+    "main.js.map": "/dice-react/static/js/main.a7c4009f.chunk.js.map",
+    "runtime~main.js": "/dice-react/static/js/runtime~main.fa866a7b.js",
+    "runtime~main.js.map": "/dice-react/static/js/runtime~main.fa866a7b.js.map",
+    "static/js/2.7cddf10a.chunk.js": "/dice-react/static/js/2.7cddf10a.chunk.js",
+    "static/js/2.7cddf10a.chunk.js.map": "/dice-react/static/js/2.7cddf10a.chunk.js.map",
+    "index.html": "/dice-react/index.html",
+    "precache-manifest.4f5b398527624ae5cba8e4d6de4c3608.js": "/dice-react/precache-manifest.4f5b398527624ae5cba8e4d6de4c3608.js",
+    "service-worker.js": "/dice-react/service-worker.js",
+    "static/css/main.0253e14e.chunk.css.map": "/dice-react/static/css/main.0253e14e.chunk.css.map"
+  }
+}
